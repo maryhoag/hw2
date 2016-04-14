@@ -229,6 +229,7 @@ input[type=submit] {
 	#masthead {
 		position: static;
 	}
+	/*this is vertical instead of the desired horizontal. why???? *cries bitter tears* */
 	nav {
 		float: none;
 	}
